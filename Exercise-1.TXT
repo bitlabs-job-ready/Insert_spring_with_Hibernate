@@ -1,0 +1,10 @@
+-create a class Student with below variables.
+    -String sname;
+    -int sid;
+    -float Total_marks;
+
+Perform below operations.
+
+1.insert operations using spring with Hibernate.	
+  
+	
